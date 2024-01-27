@@ -1,0 +1,21 @@
+{
+  "defualt": {
+    "true": "!![]",
+    "false": "![]",
+    "undefined": "[][[]]",
+    "NaN": "+[![]]",
+    "function": {
+      "Function": "[]['fill']",
+      "String": "([]+[])"
+      "Number": "(+[])"
+      "Boolean": "(![])"
+      "Array": "[]"
+    }
+  },
+
+  "words": {
+    "a": "(false+[])[1]",
+    "b": null,
+    "c": "([]['find']+[])[3]"
+  }
+}
